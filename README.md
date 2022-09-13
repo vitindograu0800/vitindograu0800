@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @vitindograu0800
 - 👀 I’m interested in para estudar
 - 🌱 I’m currently learning a mexer no computador
-- 💞️ I’m looking to collaborate on em escritórios
+- 💞️ I’m looking to collaborate on htmr
+
 - 📫 How to reach me 41 999950043
 
 <!---
